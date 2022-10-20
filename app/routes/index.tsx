@@ -11,7 +11,7 @@ export default function Index() {
       <div className="relative sm:pb-8 sm:pt-4">
       <a href="https://karmona.mx/">
                 <img
-                  src="https://github.com/mlimabasualdo/my-new-repo-for-gh-imagenes/blob/main/fac-logo-1589397452-45227.png?raw=true"
+                  src="https://github.com/mlimabasualdo/my-new-repo-for-gh-imagenes/blob/main/LOGOKARMONAAUTOMOTRIZ.jpeg?raw=true"
                   alt="Karmona"
                   className="mx-auto mt-2 w-full max-w-[2rem] md:max-w-[8rem]"
                 />
@@ -34,7 +34,7 @@ export default function Index() {
               </h1>
               <p className="mx-auto mt-6 max-w-lg text-center text-xl text-white sm:max-w-3xl">
               Somos un centro de servicio automotriz profesional con más de 30 años de experiencia en la reparación y mantenimiento de vehículos. Siempre buscamos resolver los problemas de los autos de nuestros
-               clientes y mantener a sus vehículos en perfectas condiciones. Todos los servicios mecánicos son realizados por un equipo profesional.
+              clientes y mantener a sus vehículos en perfectas condiciones. Todos los servicios mecánicos son realizados por un equipo profesional.
               </p>
               
               
